@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mohit/Downloads/XMLToJSON-20180122T115743Z-001/XMLToJSON/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/mohit/Downloads/XMLToJSON-20180122T115743Z-001/XMLToJSON/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/mohit/Downloads/XMLToJSON-20180122T115743Z-001/XMLToJSON/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/mohit/Downloads/XMLToJSON-20180122T115743Z-001/XMLToJSON/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
